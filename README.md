@@ -153,6 +153,10 @@
       <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
         alt="virtualbox"/>
     </a>
+    <a href="https://www.anaconda.com/" target="_blank">
+      <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"
+        alt="virtualbox"/>
+    </a>
   </div>
 </div>
 </details>
