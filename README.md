@@ -71,7 +71,7 @@
     </a>
     <a href="https://pandas.pydata.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"
-        alt="react"/> 
+        alt="pandas"/> 
     </a>
   </div>
 
@@ -82,6 +82,9 @@
         alt="nodejs"/>
     <a href="https://graphql.org" target="_blank">
       <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+    </a>
+    <a href="https://sequelize.org" target="_blank">
+      <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="sequelize" />
     </a>
   </div>
 
@@ -102,7 +105,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> 
       <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb"/> 
-    </a> 
+    </a>
   </div>
 
   <div align="center">
