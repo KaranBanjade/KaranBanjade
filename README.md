@@ -6,7 +6,7 @@
 
 <div>
   <samp>
-  <img align="right" width="200px" height="auto" src="./resources/img/geek.gif"/>
+  <img align="right" width="10rem" height="auto" src="./resources/img/geek.gif"/>
 
 - 🌱 I’m currently learning and working on **NodeJS, ExpressJS & GraphQL**
 
