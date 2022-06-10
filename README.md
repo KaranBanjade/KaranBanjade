@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="200rem" height="200rem" src="./resources/img/agProfile.png"/>
-  <h1>Hi<img width="30rem" src="./resources/img/waving.gif">, I'm Karan Banjade</h1>
+  <img width="70rem" height="auto" src="./resources/img/agProfile.png"/>
+  <h1>Hi<img width="10rem" src="./resources/img/waving.gif">, I'm Karan Banjade</h1>
   <h3>A passionate backend developer and a student from New Delhi, India.</h3>
 </div>
 
