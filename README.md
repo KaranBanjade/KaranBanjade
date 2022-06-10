@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="70rem" height="auto" src="./resources/img/agProfile.png"/>
-  <h1>Hi<img width="10rem" src="./resources/img/waving.gif">, I'm Karan Banjade</h1>
+  <img width="200rem" height="auto" src="./resources/img/agProfile.png"/>
+  <h1>Hi<img width="10px" src="./resources/img/waving.gif">, I'm Karan Banjade</h1>
   <h3>A passionate backend developer and a student from New Delhi, India.</h3>
 </div>
 
 <div>
   <samp>
-  <img align="right" width="270rem" height="auto" src="./resources/img/geek.gif"/>
+  <img align="right" width="200px" height="auto" src="./resources/img/geek.gif"/>
 
 - 🌱 I’m currently learning and working on **NodeJS, ExpressJS & GraphQL**
 
