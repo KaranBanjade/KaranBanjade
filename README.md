@@ -6,8 +6,6 @@
 
 <div>
   <samp>
-  <img align="right" width="100px" height="auto" src="./resources/img/geek.gif"/>
-
 - 🌱 I’m currently learning and working on **NodeJS, ExpressJS & GraphQL**
 
 - 🤝 I’m looking for opportunities to Learn & Collab in **NodeJS Backend Development**
