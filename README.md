@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="200rem" height="auto" src="./resources/img/agProfile.png"/>
   <h1>Hi, I'm Karan Banjade</h1>
   <h3>A passionate backend developer and a student from New Delhi, India.</h3>
 </div>
 
 <div>
   <samp>
+
 - 🌱 I’m currently learning and working on **NodeJS, ExpressJS & GraphQL**
 
 - 🤝 I’m looking for opportunities to Learn & Collab in **NodeJS Backend Development**
@@ -17,7 +17,7 @@
 </div>
 
 <center>
-
+    <div>
 
 # 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_bibliographic/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-banjade-929b9a167/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17058859) 
@@ -40,4 +40,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KaranBanjade&icon=0&color=8)](https://visitcount.itsvg.in)
+
+</div>
 </center>
