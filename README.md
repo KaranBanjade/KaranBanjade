@@ -1,10 +1,9 @@
 
+[![@banjade's Holopin badges](https://holopin.me/banjade)](https://holopin.io/@banjade)
 <div align="center">
   <h1>Hi, I'm Karan Banjade</h1>
   <h3>A passionate backend developer and a student from New Delhi, India.</h3>
 </div>
-  ![](https://holopin.me/banjade)(https://holopin.io/@banjade)<br/>
-  [![](https://holopin.me/banjade)](https://holopin.io/@banjade)
 <div>
   <samp>
 
