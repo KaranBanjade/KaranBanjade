@@ -2,7 +2,8 @@
   <h1>Hi, I'm Karan Banjade</h1>
   <h3>A passionate backend developer and a student from New Delhi, India.</h3>
 </div>
-[![An image of @banjade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banjade)](https://holopin.io/@banjade)
+[![@banjade's Holopin badges](https://holopin.me/banjade)](https://holopin.io/@banjade)
+
 <div>
   <samp>
 
